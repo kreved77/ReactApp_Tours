@@ -1,0 +1,65 @@
+https://mockapi.io/projects
+
+Project name
+test
+
+API endpoint
+https://63977b6977359127a038cd1f.mockapi.io/:endpoint
+===
+Resources
+===
+Resource name
+tyrs
+
+Schema
+id
+
+https://63977b6977359127a038cd1f.mockapi.io/tyrs
+
+===
+
+[
+  {
+    "id": 1,
+    "myId": 1,
+    "title": "Палатка у озера",
+    "price": "5 000",
+    "img": "/img/1.jpeg"
+  },
+  {
+    "id": 2,
+    "myId": 2,
+    "title": "Дом отдыха Рябинка",
+    "price": "50 000",
+    "img": "/img/1.jpeg"
+  },
+  {
+    "id": 3,
+    "myId": 3,
+    "title": "СПА ОТЕЛЬ КОРОЛЕВСКИЙ",
+    "price": "500 000",
+    "img": "/img/1.jpeg"
+  }
+]
+===
+
+[{"id":1,"myId":1,"title":"Палатка у озера","price":"5 000","img":"/img/1.jpeg"},{"id":2,"myId":2,"title":"Дом отдыха Рябинка","price":"50 000","img":"/img/1.jpeg"},{"id":3,"myId":3,"title":"СПА ОТЕЛЬ КОРОЛЕВСКИЙ","price":"500 000","img":"/img/1.jpeg"}]
+===
+===
+Resource name
+cart
+
+Schema
+id
+
+https://63977b6977359127a038cd1f.mockapi.io/cart
+===
+===
+Resource name
+favorites
+
+Schema
+id
+
+https://63977b6977359127a038cd1f.mockapi.io/favorites
+===
