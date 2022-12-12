@@ -1,0 +1,24 @@
+https://vercel.com/
+
+==
+Project
+
+https://github.com/kreved77/ReactApp_Tours/tree/main/my-app
+
+Name
+ReactApp_Tours_deploy
+
+==
+NEW Repo
+
+https://github.com/kreved77/ReactApp_Tours_deploy
+
+==
+Panel
+
+https://vercel.com/kreved77/react-app-tours-deploy-2ofu
+
+==
+Result
+
+https://react-app-tours-deploy-2ofu-j5r7vy91v-kreved77.vercel.app/
