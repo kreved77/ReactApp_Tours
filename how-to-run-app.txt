@@ -1,0 +1,9 @@
+npm install
+
+npm i axios
+npm i react-router-dom
+npm i react-slider  
+npm i react-slick  
+npm i react-hook-form
+
+npm start
