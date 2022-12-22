@@ -11,21 +11,21 @@ The first training project on React.js is mainly for learning concepts and the f
 
 Implemented: 
 
-• Main page with preview Item cards (name, description, price);
+â€¢ Main page with preview Item cards (name, description, price);
 
-• adding Item to Favourites; 
+â€¢ adding Item to Favourites; 
 
-• adding Item to Cart;
+â€¢ adding Item to Cart;
 
-• making Order;
+â€¢ making Order;
 
-• view list of Favourites;
+â€¢ view list of Favourites;
 
-• view Cart;
+â€¢ view Cart;
 
-• deleting items from Favourites and Cart;
+â€¢ deleting items from Favourites and Cart;
 
-• a customer request form for a Callback.
+â€¢ a customer request form for a Callback.
 
-===========================================================================================
+## 
 As a beginner developer I'm looking forward new original ideas to create some fun projects.
